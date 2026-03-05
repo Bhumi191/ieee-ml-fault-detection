@@ -1,6 +1,6 @@
 # IEEE ML Challenge – Device Fault Detection
 
-Author: Bhumi Rana  
+Author: Bhumi 
 B.Tech CSE
 
 ## Overview
